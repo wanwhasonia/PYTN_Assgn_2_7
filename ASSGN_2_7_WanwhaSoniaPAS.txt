@@ -1,0 +1,7 @@
+Nama : Wanwha Sonia Putri Artha Soetjianto
+NO : PYTN-KS007-009
+
+ASSIGNMENT 2 (Analysis of NYC Property Sales Data)
+Tujuan Analisis yaitu mengetahui analisa statistik deskriptif dan inferensial dari data penjualan properti di NYC
+
+link github : https://github.com/wanwhasonia/PYTN_Assgn_2_7.git
